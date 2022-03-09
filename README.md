@@ -9,8 +9,12 @@
   <a href="https://github.com/maxcastelobranco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxcastelobranco&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxcastelobranco&layout=compact&langs_count=4&theme=dracula" />
-  <img src="https://wakatime.com/badge/user/ce8cee9e-d7ff-4243-bab7-276cc19eb12e.svg" />
 </div>
+  
+<br/>
+  
+  <img src="https://wakatime.com/badge/user/ce8cee9e-d7ff-4243-bab7-276cc19eb12e.svg" />
+  
 <br/>
   
   ##
