@@ -7,9 +7,9 @@
 
 <div align="center">
   <a href="https://github.com/maxcastelobranco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxcastelobranco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxcastelobranco&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxcastelobranco&layout=compact&langs_count=4&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=max_castelo_branco" />
+  <img src="https://wakatime.com/badge/user/ce8cee9e-d7ff-4243-bab7-276cc19eb12e.svg" />
 </div>
 <br/>
   
