@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Max Branco 👋
 
+- 👨‍💻 Frontend developer @wedevup
 - 👨‍🎓 Atualmente cursando Sistemas de Informação na UFF (Universidade Federal Fluminense).
 - 🚀 Alumni do Bootcamp GoStack da Rocketseat, com foco em Javascript, Typescript, HTML e CSS, e ênfase nas tecnologias React.js, React Native e Node.js.
 - 🖥 Certificado pelo programa de treinamento Ignite, também pertencente à Rocketseat, nas trilhas React.js (Treinamento focado no front-end, visando construir interfaces modernas e reativas na web utilizando React e NextJs) e React Native (Treinamento focado em desenvolvimento mobile, visando construir aplicações modernas tanto para iOS quanto para Android de forma nativa).
@@ -8,6 +9,7 @@
   <a href="https://github.com/maxcastelobranco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxcastelobranco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxcastelobranco&layout=compact&langs_count=4&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=max_castelo_branco"/>
 </div>
 <br/>
   
@@ -26,7 +28,7 @@
   ##
   
 <div>
-  <a href = "mailto:maxbranco08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:max@wedevup.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/max-branco-414b4a161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br/>
