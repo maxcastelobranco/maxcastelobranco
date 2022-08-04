@@ -1,4 +1,4 @@
-### Olá! Eu sou o Max Branco 👋
+### Olá! Eu sou o Max Branco 
 
 - 👨‍💻 Frontend developer @wedevup
 - 👨‍🎓 Atualmente cursando Sistemas de Informação na UFF (Universidade Federal Fluminense).
@@ -6,9 +6,9 @@
 - 🖥 Certificado pelo programa de treinamento Ignite, também pertencente à Rocketseat, nas trilhas React.js (Treinamento focado no front-end, visando construir interfaces modernas e reativas na web utilizando React e NextJs) e React Native (Treinamento focado em desenvolvimento mobile, visando construir aplicações modernas tanto para iOS quanto para Android de forma nativa).
 
 <div align="center">
-  <a href="https://github.com/maxcastelobranco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxcastelobranco&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxcastelobranco&layout=compact&langs_count=4&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@max_castelo_branco&theme=dracula" />
 </div>
   
 <br/>
