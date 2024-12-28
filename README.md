@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Max Branco 
 
-- 👨‍💻 Frontend developer @wedevup
-- 👨‍🎓 Atualmente cursando Sistemas de Informação na UFF (Universidade Federal Fluminense).
+- 👨‍💻 Fullstack developer @wedevup
 - 🚀 Alumni do Bootcamp GoStack da Rocketseat, com foco em Javascript, Typescript, HTML e CSS, e ênfase nas tecnologias React.js, React Native e Node.js.
 - 🖥 Certificado pelo programa de treinamento Ignite, também pertencente à Rocketseat, nas trilhas React.js (Treinamento focado no front-end, visando construir interfaces modernas e reativas na web utilizando React e NextJs) e React Native (Treinamento focado em desenvolvimento mobile, visando construir aplicações modernas tanto para iOS quanto para Android de forma nativa).
 
