@@ -20,7 +20,7 @@ Led development across a broad range of client products — from edtech platform
 
 | Project | Description |
 |---|---|
-| [CoGrader](https://v2.cograder.com/app) | AI grading platform with Google integrations and Stripe billing |
+| [CoGrader](https://v2.cograder.com/app) | AI grading platform with lms integrations and Stripe billing |
 | [EduSynch](https://edusynch.com) | English proficiency training platform (TOEFL, IELTS, TOEIC, CEFR) with live e-proctoring |
 | [Omens](https://omens.com.br) | Patient portal with video/chat consultations and sexual health e-commerce |
 | TikTok for Business | Immersive campaign landing page with interactive Three.js 3D environment |
