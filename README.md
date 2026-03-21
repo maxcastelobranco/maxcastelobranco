@@ -27,7 +27,7 @@ Led development across a broad range of client products — from edtech platform
 | [Barraca Livre](https://barracalivre.com.br) | Camping marketplace with Google Maps, search, and admin tools |
 | [Primeset](https://www.primeset.com.br) | Landing page and intranet app with dynamic tables and filtering |
 | [Curso Prático](https://landing.cursopratico.net.br) | Ed-tech portal with exercises, leaderboards, and performance analytics |
-| [EzGame](https://www.ezgame.com.br) | Landing pages and dashboard for gaming products focused e-commerce |
+| [EzGame](https://www.ezgame.com.br) | Landing pages and dashboard for digital gaming products focused e-commerce |
 | [SwiftSign](https://www.swiftsign.io) | Contract management with collaborative annotation and commenting |
 
 ---
@@ -60,7 +60,7 @@ Led development across a broad range of client products — from edtech platform
 ## 📊 Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxcastelobranco&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxcastelobranco&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxcastelobranco&layout=compact&langs_count=6&theme=dracula" />
 </div>
 
