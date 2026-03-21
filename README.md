@@ -21,14 +21,14 @@ Led development across a broad range of client products — from edtech platform
 | Project | Description |
 |---|---|
 | [CoGrader](https://v2.cograder.com/app) | AI grading platform with Google integrations and Stripe billing |
-| [Omens](https://omens.com.br) | Patient portal with video/chat consultations and sexual health e-commerce |
 | [EduSynch](https://edusynch.com) | English proficiency training platform (TOEFL, IELTS, TOEIC, CEFR) with live e-proctoring |
-| [Barraca Livre](https://barracalivre.com.br) | Camping marketplace with Google Maps, search, and admin tools |
-| [Curso Prático](https://landing.cursopratico.net.br) | Ed-tech portal with exercises, leaderboards, and performance analytics |
-| [SwiftSign](https://www.swiftsign.io) | Contract management with collaborative annotation and commenting |
+| [Omens](https://omens.com.br) | Patient portal with video/chat consultations and sexual health e-commerce |
 | TikTok for Business | Immersive campaign landing page with interactive Three.js 3D environment |
-| [Primeset](https://www.primeset.com.br) | Landing page and internal intranet with dynamic tables and filtering |
+| [Barraca Livre](https://barracalivre.com.br) | Camping marketplace with Google Maps, search, and admin tools |
+| [Primeset](https://www.primeset.com.br) | Landing page and intranet app with dynamic tables and filtering |
+| [Curso Prático](https://landing.cursopratico.net.br) | Ed-tech portal with exercises, leaderboards, and performance analytics |
 | [EzGame](https://www.ezgame.com.br) | Landing pages and dashboard for gaming products focused e-commerce |
+| [SwiftSign](https://www.swiftsign.io) | Contract management with collaborative annotation and commenting |
 
 ---
 
