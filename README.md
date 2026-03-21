@@ -1,4 +1,4 @@
-# Hey, I'm Max Branco 👋
+# Hey, I'm Max Castelo Branco 👋
 
 **Senior Software Engineer** specializing in modern React ecosystems, TypeScript, and full-stack JavaScript development. Currently building at [@CoGrader](https://cograder.com) — an AI-powered grading and feedback platform used by educators worldwide.
 
