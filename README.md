@@ -29,6 +29,7 @@ Led development across a broad range of client products — from edtech platform
 | [Curso Prático](https://landing.cursopratico.net.br) | Ed-tech portal with exercises, leaderboards, and performance analytics |
 | [EzGame](https://www.ezgame.com.br) | Landing pages and dashboard for digital gaming products focused e-commerce |
 | [SwiftSign](https://www.swiftsign.io) | Contract management with collaborative annotation and commenting |
+| [Instituto NTC](https://institutontc.com.br) | Event platform landing pages, and Strapi CMS integration for events management |
 
 ---
 
